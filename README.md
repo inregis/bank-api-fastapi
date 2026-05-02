@@ -190,7 +190,7 @@ Projeto desenvolvido para prática de APIs assíncronas com FastAPI, autenticaç
 
 ## Preview
 
-![Swagger]()
+![Swagger](assets/preview_swagger.png)
 
 ## 👨‍💻 Autor
 
