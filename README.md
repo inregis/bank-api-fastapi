@@ -188,11 +188,7 @@ Projeto desenvolvido para prática de APIs assíncronas com FastAPI, autenticaç
 
 ---
 
-## 📸 Preview da API
 
-<p align="center">
-  <img src="assets/swagger-preview.png" width="900">
-</p>
 
 ## 👨‍💻 Autor
 
